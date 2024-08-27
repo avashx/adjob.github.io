@@ -360,7 +360,7 @@
 
 
 <section class="back">
-<div class="sectop"><div  style="float: right;padding: 3%;"><a  href="/sbtjob.php" class="green">Publish a job</a></div>
+<div class="sectop"><div  style="float: right;padding: 3%;"><a  href="sbtjob.php" class="green">Publish a job</a></div>
 <h2>ADVANCED JOB PROVIDING SYSTEM</h2>
   <br>
   <img class="img" src="anim.svg"></img> 
@@ -374,9 +374,9 @@
   <h2>New Job for New Generation</h2>
   <br>
 <div >  
-  <a  href="/job.php" > <input  type="button" value="Find a Job" class="btn1"></a>
+  <a  href="job.php" > <input  type="button" value="Find a Job" class="btn1"></a>
   
-   <input type="button" onclick="window.location.href='/cdd.php'" value="Find a Candidate" class="btn1">
+   <input type="button" onclick="window.location.href='cdd.php'" value="Find a Candidate" class="btn1">
 
   </div>
  <br>
@@ -474,7 +474,7 @@ else
 
 <h5>( or Submit your Qualification to get Hired )</h5>
   
-<input onclick="window.location.href='/sbtcdd.php'" type="submit" value="Submit Qualification" class="btn2">
+<input onclick="window.location.href='sbtcdd.php'" type="submit" value="Submit Qualification" class="btn2">
 </section>
 <br>
 <section><center>
@@ -534,7 +534,7 @@ else
 </select>
  
     
- <a href="/job.php"><input type="submit" value="Search a job" class="btn"></a>
+ <a href="job.php"><input type="submit" value="Search a job" class="btn"></a>
   </form>
 
 
@@ -564,7 +564,7 @@ else
 
 <div>
 <center>
-<a href="/job.php"><div  class="card">  
+<a href="job.php"><div  class="card">  
   <br><h1 >Popular Jobs</h1>
   <br>
 </div></a>
